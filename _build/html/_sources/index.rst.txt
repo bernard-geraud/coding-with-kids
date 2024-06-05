@@ -5,6 +5,7 @@
 
 Welcome to Coding with Kids's documentation!
 ============================================
+Hello world
 
 .. toctree::
    :maxdepth: 2
