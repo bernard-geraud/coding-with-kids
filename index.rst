@@ -48,3 +48,10 @@ For details about the hardware and code options, see
 
    Guidelines/content
    Guidelines/workflow
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: about
+
+   about

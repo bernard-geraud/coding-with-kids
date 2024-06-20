@@ -58,6 +58,27 @@ Options
     Lego Mindstorms,Yes,$350,Meduim
     Shiny New Platform,No,$1000,Crazy
 
+.. list-table:: Comparison
+    :widths: 20 10 10 15 20
+    :header-rows: 1
+    :class: tight-table
+
+    * - Platform
+      - Self-Contained
+      - Cost
+      - Flexibility
+      - Description
+    * - Raspberry Pi
+      - No
+      - $30
+      - Limitless
+      - Mini computer board with GPIO pins for interfacing. Some new change to broke design
+    * - Lego Mindstorms
+      - Yes
+      - $350
+      - Meduim
+      - Lego robotics system with motor and sensors. Some new change to broke design
+
 
 Raspbery Pi (Family)
 ~~~~~~~~~~~~~~~~~~~~~
