@@ -13,3 +13,5 @@ exclusion or inaccuracies.
 
 ## Opinions
 Comments are mine, not any else's. Etc.
+
+This only exist firstly on the latest version.
