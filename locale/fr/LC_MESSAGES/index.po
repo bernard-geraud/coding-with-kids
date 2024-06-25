@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Devskills
+# This file is distributed under the same license as the Coding with Kids
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Coding with Kids \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-25 12:52+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../index.rst:36
+msgid "Options"
+msgstr "Options"
+
+#: ../../index.rst:45
+msgid "Guideliness"
+msgstr "Directives"
+
+#: ../../index.rst:52
+msgid "about"
+msgstr "à propos de"
+
+#: ../../index.rst:7
+msgid "Welcome to Coding with Kids!"
+msgstr "Bienvenue sur Coding with Kids !"
+
+#: ../../index.rst:8
+msgid ""
+"Coding with kids can be a *great* way to not only teach them some skills "
+"that will help them with their own lives, but also *create or strengthen*"
+" some lasting **bonds between you and them.**"
+msgstr "Coder avec les enfants peut être un *moyen formidable* non seulement de leur enseigner des compétences qui les aideront dans leur propre vie, mais aussi de *créer ou de renforcer* des **liens durables entre vous et eux**."
+
+#: ../../index.rst:13
+msgid "Here is a new content from VS Code."
+msgstr "Voici un nouveau contenu de VS Code."
+
+#: ../../index.rst:15
+msgid ""
+"Throughout your journey you will both likely learn new ``concepts`` and "
+"``terms`` that will expand your horizons and provide hours of enjoyment."
+msgstr "Tout au long de votre voyage, vous apprendrez probablement de nouveaux ``concepts`` et ``termes`` qui élargiront vos horizons et vous procureront des heures de plaisir."
+
+#: ../../index.rst:20
+msgid ""
+"Some kids have problems with screen time and if you leave them unattended"
+" with a screen and they have access to things like YouTube or games, they"
+" may not stay focused on the task at hand."
+msgstr "Certains enfants ont des problèmes avec le temps passé devant un écran et si vous les laissez sans surveillance devant un écran et qu'ils ont accès à des choses comme YouTube ou des jeux, ils risquent de ne pas rester concentrés sur la tâche à accomplir."
+
+#: ../../index.rst:25
+msgid "list item"
+msgstr ""
+
+#: ../../index.rst:26
+msgid "another item"
+msgstr "élément de la liste"
+
+#: ../../index.rst:28
+msgid ""
+"There are a lots of great options for where to start, and "
+":doc:`/Options/justlogic` is a great place to start. Note that the "
+":doc:`best starting point </Options/justlogic>` is another way to refer "
+"to same place but give your link text some title."
+msgstr "Il existe de nombreuses options intéressantes pour commencer."
+
+#: ../../index.rst:33
+msgid ""
+"For details about the hardware and code options, see :ref:`Options "
+"section for hardware and code <hwcodeOptions>` ."
+msgstr "Pour plus de détails sur le matériel et les options de code"
+
