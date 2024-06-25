@@ -12,12 +12,12 @@ import sphinx_rtd_theme
 project = 'Coding with Kids'
 copyright = '2024, Devskills'
 author = 'Devskills'
+release = '0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'recommonmark',
     'sphinx_rtd_theme',
     'sphinx.ext.autodoc',
     'sphinx.ext.napoleon',
@@ -26,6 +26,8 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.ifconfig',
     'sphinx.ext.githubpages',
+    'sphinx_intl',
+    'recommonmark'
 ]
 
 templates_path = ['_templates']

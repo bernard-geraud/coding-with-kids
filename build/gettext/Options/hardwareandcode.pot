@@ -1,0 +1,187 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Devskills
+# This file is distributed under the same license as the Coding with Kids package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Coding with Kids \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-25 16:59+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../Options/hardwareandcode.rst:3
+msgid "Hardware and Code"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:6
+msgid "Key Goals"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:9
+msgid "Options"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:12
+#: ../../Options/hardwareandcode.rst:32
+#: ../../Options/hardwareandcode.rst:53
+#: ../../Options/hardwareandcode.rst:61
+msgid "Comparison"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:1
+#: ../../Options/hardwareandcode.rst:15
+#: ../../Options/hardwareandcode.rst:23
+#: ../../Options/hardwareandcode.rst:36
+#: ../../Options/hardwareandcode.rst:66
+msgid "Platform"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:15
+#: ../../Options/hardwareandcode.rst:23
+msgid "Self-Contained?"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:1
+#: ../../Options/hardwareandcode.rst:15
+#: ../../Options/hardwareandcode.rst:23
+#: ../../Options/hardwareandcode.rst:38
+#: ../../Options/hardwareandcode.rst:68
+msgid "Cost"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:1
+#: ../../Options/hardwareandcode.rst:15
+#: ../../Options/hardwareandcode.rst:23
+#: ../../Options/hardwareandcode.rst:39
+#: ../../Options/hardwareandcode.rst:69
+msgid "Flexibility"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:1
+#: ../../Options/hardwareandcode.rst:17
+#: ../../Options/hardwareandcode.rst:25
+#: ../../Options/hardwareandcode.rst:40
+#: ../../Options/hardwareandcode.rst:71
+msgid "Raspberry Pi"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:1
+#: ../../Options/hardwareandcode.rst:17
+#: ../../Options/hardwareandcode.rst:19
+#: ../../Options/hardwareandcode.rst:25
+#: ../../Options/hardwareandcode.rst:29
+#: ../../Options/hardwareandcode.rst:41
+#: ../../Options/hardwareandcode.rst:49
+#: ../../Options/hardwareandcode.rst:72
+msgid "No"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:17
+#: ../../Options/hardwareandcode.rst:25
+#: ../../Options/hardwareandcode.rst:42
+#: ../../Options/hardwareandcode.rst:73
+msgid "$30"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:1
+#: ../../Options/hardwareandcode.rst:17
+#: ../../Options/hardwareandcode.rst:25
+#: ../../Options/hardwareandcode.rst:43
+#: ../../Options/hardwareandcode.rst:74
+msgid "Limitless"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:1
+#: ../../Options/hardwareandcode.rst:18
+#: ../../Options/hardwareandcode.rst:27
+#: ../../Options/hardwareandcode.rst:44
+#: ../../Options/hardwareandcode.rst:76
+#: ../../Options/hardwareandcode.rst:97
+msgid "Lego Mindstorms"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:1
+#: ../../Options/hardwareandcode.rst:18
+#: ../../Options/hardwareandcode.rst:27
+#: ../../Options/hardwareandcode.rst:45
+#: ../../Options/hardwareandcode.rst:77
+msgid "Yes"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:1
+#: ../../Options/hardwareandcode.rst:18
+#: ../../Options/hardwareandcode.rst:27
+#: ../../Options/hardwareandcode.rst:46
+#: ../../Options/hardwareandcode.rst:78
+msgid "$350"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:1
+#: ../../Options/hardwareandcode.rst:18
+#: ../../Options/hardwareandcode.rst:27
+#: ../../Options/hardwareandcode.rst:47
+#: ../../Options/hardwareandcode.rst:79
+msgid "Meduim"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:1
+#: ../../Options/hardwareandcode.rst:19
+#: ../../Options/hardwareandcode.rst:29
+#: ../../Options/hardwareandcode.rst:48
+msgid "Shiny New Platform"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:1
+#: ../../Options/hardwareandcode.rst:19
+#: ../../Options/hardwareandcode.rst:29
+#: ../../Options/hardwareandcode.rst:50
+msgid "$1000"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:1
+#: ../../Options/hardwareandcode.rst:19
+#: ../../Options/hardwareandcode.rst:29
+#: ../../Options/hardwareandcode.rst:51
+msgid "Crazy"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:1
+#: ../../Options/hardwareandcode.rst:37
+#: ../../Options/hardwareandcode.rst:67
+msgid "Self-Contained"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:1
+msgid "$3"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:70
+msgid "Description"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:75
+msgid "Mini computer board with GPIO pins for interfacing. Some new change to broke design"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:80
+msgid "Lego robotics system with motor and sensors. Some new change to broke design"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:84
+msgid "Raspbery Pi (Family)"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:85
+msgid "Here's what a Raspberry Pi 2 and a Sense Hat look like:"
+msgstr ""
+
+#: ../../Options/hardwareandcode.rst:90
+msgid "With this, you can do cool things like program your own version of Connect-4 -- you will need to consider how to check for a win by avaluated options as chown in the diagram below:"
+msgstr ""
