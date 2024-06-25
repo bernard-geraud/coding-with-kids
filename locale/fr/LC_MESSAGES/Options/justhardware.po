@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Devskills
+# This file is distributed under the same license as the Coding with Kids
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Coding with Kids \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-25 12:52+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../Options/justhardware.rst:2
+msgid "Just Hardware"
+msgstr ""
+
+#: ../../Options/justhardware.rst:5
+msgid "Key Goals"
+msgstr ""
+
+#: ../../Options/justhardware.rst:8
+msgid "Options"
+msgstr ""
+
+#: ../../Options/justhardware.rst:11
+msgid "Arduino"
+msgstr ""
+
+#: ../../Options/justhardware.rst:12
+msgid ""
+"Arduino is an open source electronics platform that is great for both "
+"adults and kids."
+msgstr ""
+
+#: ../../Options/justhardware.rst:15
+msgid "https://www.arduino.cc/"
+msgstr ""
+
+#: ../../Options/justhardware.rst:18
+msgid "Snap Circuits"
+msgstr ""
+
+#: ../../Options/justhardware.rst:19
+msgid ""
+"`Snap Circuits <https://www.snapcircuits.net/>`_ is a great electronics "
+"learning platform consisting of plastic board and electronics components "
+"that you snap together based on the project guides to learn basic "
+"electronics concepts."
+msgstr ""
+
+#: ../../Options/justhardware.rst:25
+msgid "Project Blocks (in development)"
+msgstr ""
+
+#: ../../Options/justhardware.rst:26
+msgid ""
+"Project Blocks is on the web at https://projectblocks.withgoogle.com/ and"
+" is a new project from Google that is still being developed but looks "
+"pretty awesome if you have younger kids that want to learn logic and "
+"flow."
+msgstr ""
+
